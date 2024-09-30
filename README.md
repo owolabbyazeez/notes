@@ -34,6 +34,6 @@ Shortcuts I frequently use:
 - Ctrl-Z (undo)
 
 Shortcuts I would like to start using: 
-- Ctrl-A (select all)
+- Ctrl + Del (deletes selected items)
 - Win-D (show desktop)
-- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+- Ctrl + M (Minimize)
